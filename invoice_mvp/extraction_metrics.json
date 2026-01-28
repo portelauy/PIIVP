@@ -1,0 +1,35 @@
+[
+  {
+    "timestamp": "2026-01-28T14:00:51.117139",
+    "filename": "unfpa_factura_foto.JPG",
+    "provider": "llama_cloud",
+    "processing_time": 21.4837327003479,
+    "success": true,
+    "confidence": {
+      "overall": 0.85
+    },
+    "error_message": null
+  },
+  {
+    "timestamp": "2026-01-28T14:01:39.838625",
+    "filename": "unfpa_factura_foto.JPG",
+    "provider": "tesseract_ocr",
+    "processing_time": 0.002231597900390625,
+    "success": true,
+    "confidence": {
+      "overall": 0.7
+    },
+    "error_message": null
+  },
+  {
+    "timestamp": "2026-01-28T14:51:49.434496",
+    "filename": "dummy.pdf",
+    "provider": "mock",
+    "processing_time": 3.814697265625e-06,
+    "success": true,
+    "confidence": {
+      "overall": 1.0
+    },
+    "error_message": null
+  }
+]

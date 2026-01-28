@@ -305,4 +305,4 @@ Some ideas for future improvements:
 
 ---
 
-Built with ❤️ for making invoice processing actually work in the real world.
+Cecilia Portela +59899361100

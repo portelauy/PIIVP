@@ -139,11 +139,11 @@ Here's a real example of the JSON response:
   "invoice": {
     "provider": {
       "name": "ANDREA CECILIA PORTELA GALLO",
-      "rut": "21 705833 0019",
+      "rut": "21 705833 XXXX",
       "address": "Ruta 5 S/N - Durazno"
     },
     "buyer": {
-      "name": "UNFPA",
+      "name": "XXXXX",
       "rut": "",
       "address": "Dr. Leis Pierar 1992",
       "type": "C.FINAL CRÉDITO"
@@ -157,10 +157,10 @@ Here's a real example of the JSON response:
       }
     ],
     "totals": {
-      "subtotal": 69393.0,
-      "iva": 15267.0,
+      "subtotal": XX9393.0,
+      "iva": XXXXX.0,
       "iva_rate": 0.0,
-      "total": 84660.0
+      "total": XXXXXXX.0
     }
   },
   "validation": {
